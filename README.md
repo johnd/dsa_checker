@@ -1,7 +1,7 @@
 DSA Practical Test Appointment Scraper
-======================================
+--------------------------------------
 
-Booked a driving test but don't want to wait six weeks of more for your
+Booked a driving test but don't want to wait six weeks or more for your
 appointment? Cancellations appear, but checking manually all the time is
 tedious.
 
