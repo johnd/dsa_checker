@@ -16,7 +16,7 @@ availability, your driving instructor's availability, or whatever.
 
 To set up the scraper, copy `config.env.example` to `config.env` and edit
 it to contain your details. If you've not already signed up for Twilio
-you'll need to sign up: http://twilio.com and get a phone number and API
+you'll need to sign up: go to http://twilio.com and get a phone number and API
 auth details. You should also register your mobile phone so you can
 receive text messages with a trial account (or get a paid account, if
 you like).
